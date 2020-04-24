@@ -36,6 +36,7 @@
       <tr cellspacing="10">
         <td>Business ⭐️⭐️⭐️⭐️⭐️ Fundraising ⭐️⭐️</td>
       </td>
+  </tr>
 <tr>
   <td>Sales ⭐️⭐️⭐️⭐️⭐️ Marketing ⭐️⭐️⭐️⭐️</td>
 </tr>
