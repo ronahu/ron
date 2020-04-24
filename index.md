@@ -35,11 +35,10 @@
     <table>
       <tr cellspacing="10">
         <td>Business ⭐️⭐️⭐️⭐️⭐️ Fundraising ⭐️⭐️</td>
-  </tr>
-<tr>
-  <td>Sales ⭐️⭐️⭐️⭐️⭐️ Marketing ⭐️⭐️⭐️⭐️</td>
-</tr>
-      </tr>
+        </tr>
+        <tr>
+        <td>Sales ⭐️⭐️⭐️⭐️⭐️ Marketing ⭐️⭐️⭐️⭐️</td>
+        </tr>
     </table>
     <hr>
     <h3>My Experience</h3>
